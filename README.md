@@ -60,6 +60,5 @@ Frontend akan jalan di: http://localhost:3600
 ```
 
 ## Author
-Nama: Siswanto
-GitHub: github.com/Siswanto01
-
+**Nama**: Siswanto  
+**GitHub**: [github.com/Siswanto01](https://github.com/Siswanto01)
