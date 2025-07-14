@@ -38,13 +38,16 @@ Menggunakan **Node.js (Express)** untuk backend, **MySQL** sebagai database, dan
 
 ## Cara menggunakannya
 
+## 
+
 1. Jalankan Frontend (React)
-   
+
 ```bash
 cd frontend-komisi
 npm install
 npm start
 Frontend akan jalan di: http://localhost:3000
+```
 
 2. Jalankan Backend (Express)
 
@@ -54,9 +57,9 @@ npm install
 cp .env // belum dibuatkan .env.example
 npm run dev
 Frontend akan jalan di: http://localhost:3600
+```
 
----
-
-Author
+## Author
 Nama: Siswanto
 GitHub: github.com/Siswanto01
+
