@@ -55,6 +55,8 @@ cp .env // belum dibuatkan .env.example
 npm run dev
 Frontend akan jalan di: http://localhost:3600
 
+---
+
 Author
 Nama: Siswanto
 GitHub: github.com/Siswanto01
