@@ -1,0 +1,79 @@
+{
+	"info": {
+		"_postman_id": "e5f08a2a-71d4-4913-be04-b6868efaa0c2",
+		"name": "Api_Sisa_Pembayaran",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "46701456"
+	},
+	"item": [
+		{
+			"name": "Sisa/3",
+			"request": {
+				"auth": {
+					"type": "inherit"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3600/api/pembayaran/sisa/3",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3600",
+					"path": [
+						"api",
+						"pembayaran",
+						"sisa",
+						"3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Sisa/1",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3600/api/pembayaran/sisa/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3600",
+					"path": [
+						"api",
+						"pembayaran",
+						"sisa",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Sisa/2",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3600/api/pembayaran/sisa/2",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3600",
+					"path": [
+						"api",
+						"pembayaran",
+						"sisa",
+						"2"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

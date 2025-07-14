@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "eda489c0-9979-48ea-b7a8-95adc5cba2fc",
+		"name": "Api_Komisi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "46701456"
+	},
+	"item": [
+		{
+			"name": "http://localhost:3600/api/komisi",
+			"request": {
+				"auth": {
+					"type": "inherit"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3600/api/komisi",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3600",
+					"path": [
+						"api",
+						"komisi"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
