@@ -1,6 +1,8 @@
 # komisi-marketing-project
 
-Project ini dibuat sebagai bagian dari studi kasus developer: sistem manajemen komisi marketing dan pembayaran cicilan (kredit).  
+Project ini dibuat sebagai bagian dari studi kasus developer: 
+sistem manajemen komisi marketing dan pembayaran cicilan (kredit).  
+
 Menggunakan **Node.js (Express)** untuk backend, **MySQL** sebagai database, dan **React.js** untuk frontend.
 
 ---
@@ -36,7 +38,15 @@ Menggunakan **Node.js (Express)** untuk backend, **MySQL** sebagai database, dan
 
 ## Cara menggunakannya
 
-### 1. Jalankan Backend (Express)
+1. Jalankan Frontend (React)
+   
+```bash
+cd frontend-komisi
+npm install
+npm start
+Frontend akan jalan di: http://localhost:3000
+
+2. Jalankan Backend (Express)
 
 ```bash
 cd api-komisi-marketing
@@ -44,15 +54,6 @@ npm install
 cp .env // belum dibuatkan .env.example
 npm run dev
 Frontend akan jalan di: http://localhost:3600
-
-### 2. Jalankan Frontend (React)
-
-```bash
-cd frontend-komisi
-npm install
-npm start
-Frontend akan jalan di: http://localhost:3000
-
 
 Author
 Nama: Siswanto
